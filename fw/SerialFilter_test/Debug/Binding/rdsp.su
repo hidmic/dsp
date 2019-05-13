@@ -1,0 +1,5 @@
+rdsp.c:3:15:rdsp_mp_write	32	static
+rdsp.c:9:13:rdsp_mp_read	32	static
+rdsp.c:16:1:rdsp_context_init	32	static
+rdsp.c:26:1:rdsp_take_q15_filter_request	32	static
+rdsp.c:62:1:rdsp_dump_q15_filter_response	24	static
